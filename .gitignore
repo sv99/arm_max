@@ -1,2 +1,7 @@
 *.swp
 
+# binary packages
+*.pkg
+*.bz2
+*.xz
+
